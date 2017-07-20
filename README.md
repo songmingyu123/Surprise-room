@@ -1,2 +1,2 @@
 # Surprise-room
-Ying means pure.
+家庭财务管理系统
